@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Verma</h1>
-<h3 align="center">a self taught Developer and pursuing my Bachelors in Civil Engineering.I'm curious learner always ready to enhance knowledge.</h3>
+<h3 align="center">a self taught Programmer and pursuing my Bachelors in Civil Engineering.I'm curious learner always ready to enhance knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusvhar01&label=Profile%20views&color=0e75b6&style=flat" alt="tusvhar01" /> </p>
 
